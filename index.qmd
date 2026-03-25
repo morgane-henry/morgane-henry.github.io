@@ -1,18 +1,25 @@
 ---
 title: " Morgane Henry"
-image: media/headshot.jpeg
+image: media/headshot.jpg
 toc: false
 about: 
   template: jolla
   image-shape: round
-  image-width: 17em
+  image-width: 250px
   links:
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Morgane-Henry-2?ev=hdr_xprf 
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: www.linkedin.com/in/morgane-henry-bio
-    - text: Email
+    - icon: envelope-fill
+      text: Email
       href: mailto:morgane.henry2@mail.mcgill.ca
 ---
 
-I am a PhD candidate in quantitative ecology at McGill University. My research focuses on population dynamics, spatial processes, and outbreak ecology.
+::: {style="font-size: 1.2em;"}
+I am a PhD candidate in quantitative ecology in the [Leung Lab](https://leung-lab.github.io/leunglab/) at McGill University. My research focuses mainly on outbreaks of forest insects and their population dynamics. In particular, I'm interested in how low-density populations transition into large-scale outbreaks. I combine statistical modelling, long-term population data, and ecological theory to understand the dynamics underlying these processes. 
+
+
+:::
+

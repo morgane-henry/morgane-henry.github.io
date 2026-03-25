@@ -7,10 +7,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
       - href: publications.qmd
         text: Publications
+  page-footer:
+    background: primary
+    left: "Copyright 2026, Morgane Henry" 
 
 format:
   html:

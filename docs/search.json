@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Morgane Henry",
     "section": "",
-    "text": "I am a PhD candidate in quantitative ecology at McGill University. My research focuses on population dynamics, spatial processes, and outbreak ecology."
+    "text": "I am a PhD candidate in quantitative ecology in the Leung Lab at McGill University. My research focuses mainly on outbreaks of forest insects and their population dynamics. In particular, I’m interested in how low-density populations transition into large-scale outbreaks. I combine statistical modelling, long-term data, and ecological theory to understand the dynamics underlying these processes."
   },
   {
     "objectID": "publications.html",
@@ -33,5 +33,12 @@
     "title": "Publications",
     "section": "Preprints",
     "text": "Preprints\n\nde Oliveira Caetano, G.H., Angulo, E., Carneiro, L., Cuthbert, R.N., Evans, T., Henry, M., Hudgins, E., Soto, I., Touza, J., Turbelin, A.J., Jarić, I. & Courchamp, F. (2025) Global extrapolation drastically increases estimated economic costs of biological invasions [preprint]"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Morgane Henry",
+    "section": "Education",
+    "text": "Education\nUniversity of Aberdeen, Scotland MSc in Marine Conservation"
   }
 ]
