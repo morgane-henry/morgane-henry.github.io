@@ -5,5 +5,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Morgane Henry",
+    "section": "",
+    "text": "I am a PhD candidate in quantitative ecology at McGill University. My research focuses on population dynamics, spatial processes, and outbreak ecology."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Henry, M., James, P. M. A, Kneeshaw, D. & Leung, B. (2026) Connecting the dots: elucidating the relationship between spruce budworm population dynamics and defoliation. Canadian Journal of Forest Research https://doi.org/10.1139/cjfr-2025-0197\n\n\nGhali, K., Ramella, E., Henry, M., Schwander, T., & van der Kooi, C. J. (2025). Ecological specialization, clonal diversity, and local adaptation explain the co-existence of sexual and asexual grass thrips. Journal of evolutionary biology, 38(7), 1016-1022. https://doi.org/10.1093/jeb/voaf076\n\n\nHudgins, E. J., Leung, B., MacQuarrie, C. J., McCullough, D. G., Francis, A., Lovett, G. M., Guo, Q., Potter, K. M., Cullingham, C. I., Koch, F. H., Bergman, J. N., Binley, A. D., Robichaud, C., Henry, M., Chen, Yuyan, C. & Bennett, J. R. (2024). Five organizing themes for invasive forest insect and disease management in Canada and the United States. Forest Ecology and Management, 566, 122046. https://doi.org/10.1016/j.foreco.2024.122046\n\n\nHenry, M., Leung, B., Cuthbert, R. N., Bodey, T. W., Ahmed, D. A., Angulo, E., … & Haubrock, P. J. (2023). Unveiling the hidden economic toll of biological invasions in the European Union. Environmental Sciences Europe, 35(1), 1-16. https://doi.org/10.1186/s12302-023-00750-3"
+  },
+  {
+    "objectID": "publications.html#published-articles",
+    "href": "publications.html#published-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Henry, M., James, P. M. A, Kneeshaw, D. & Leung, B. (2026) Connecting the dots: elucidating the relationship between spruce budworm population dynamics and defoliation. Canadian Journal of Forest Research https://doi.org/10.1139/cjfr-2025-0197\n\n\nGhali, K., Ramella, E., Henry, M., Schwander, T., & van der Kooi, C. J. (2025). Ecological specialization, clonal diversity, and local adaptation explain the co-existence of sexual and asexual grass thrips. Journal of evolutionary biology, 38(7), 1016-1022. https://doi.org/10.1093/jeb/voaf076\n\n\nHudgins, E. J., Leung, B., MacQuarrie, C. J., McCullough, D. G., Francis, A., Lovett, G. M., Guo, Q., Potter, K. M., Cullingham, C. I., Koch, F. H., Bergman, J. N., Binley, A. D., Robichaud, C., Henry, M., Chen, Yuyan, C. & Bennett, J. R. (2024). Five organizing themes for invasive forest insect and disease management in Canada and the United States. Forest Ecology and Management, 566, 122046. https://doi.org/10.1016/j.foreco.2024.122046\n\n\nHenry, M., Leung, B., Cuthbert, R. N., Bodey, T. W., Ahmed, D. A., Angulo, E., … & Haubrock, P. J. (2023). Unveiling the hidden economic toll of biological invasions in the European Union. Environmental Sciences Europe, 35(1), 1-16. https://doi.org/10.1186/s12302-023-00750-3"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nde Oliveira Caetano, G.H., Angulo, E., Carneiro, L., Cuthbert, R.N., Evans, T., Henry, M., Hudgins, E., Soto, I., Touza, J., Turbelin, A.J., Jarić, I. & Courchamp, F. (2025) Global extrapolation drastically increases estimated economic costs of biological invasions [preprint]"
   }
 ]
