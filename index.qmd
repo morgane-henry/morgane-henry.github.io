@@ -9,9 +9,9 @@ about:
   links:
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Morgane-Henry-2?ev=hdr_xprf 
-    - icon: linkedin
-      text: LinkedIn
-      href: www.linkedin.com/in/morgane-henry-bio
+   # - icon: linkedin
+    #  text: LinkedIn
+     # href: www.linkedin.com/in/morgane-henry-bio
     - icon: envelope-fill
       text: Email
       href: mailto:morgane.henry2@mail.mcgill.ca
