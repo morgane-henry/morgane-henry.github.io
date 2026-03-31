@@ -10,6 +10,8 @@ website:
         text: About
       - href: publications.qmd
         text: Publications
+      - href: CV.qmd
+        text: CV 
   page-footer:
     background: primary
     left: "Copyright 2026, Morgane Henry" 
