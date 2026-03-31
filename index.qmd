@@ -8,7 +8,7 @@ about:
   image-width: 250px
   links:
     - text: ResearchGate
-      href: https://www.researchgate.net/profile/Morgane-Henry-2?ev=hdr_xprf 
+      href: https://www.researchgate.net/profile/Morgane-Henry-2?ev=hdr_xprf
     - icon: envelope-fill
       text: Email
       href: mailto:morgane.henry2@mail.mcgill.ca
