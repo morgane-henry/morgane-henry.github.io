@@ -14,6 +14,9 @@ website:
         text: CV 
   page-footer:
     background: primary
+    right:
+      - icon: envelope-fill
+        text: morgane.henry2@mail.mcgill.ca
     left: "Copyright 2026, Morgane Henry" 
 
 format:
