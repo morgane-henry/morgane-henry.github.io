@@ -15,7 +15,7 @@ about:
 ---
 
 ::: {style="font-size: 1.2em;"}
-I am a PhD candidate in quantitative ecology in the [Leung Lab](https://leung-lab.github.io/leunglab/) at McGill University. My research focuses mainly on outbreaks of forest insects and their population dynamics. In particular, I'm interested in how low-density populations transition into large-scale outbreaks. I combine statistical modelling, long-term population data, and ecological theory to understand the dynamics underlying these processes. 
+I am a PhD candidate in quantitative ecology in the [Leung Lab](https://leung-lab.github.io/leunglab/) at McGill University. My research focuses mainly on outbreaks of forest insects and their population dynamics. I'm particularly interested in how low-density populations transition into large-scale outbreaks. I combine statistical modelling, long-term population data, and ecological theory to understand the dynamics underlying these processes. 
 
 
 :::
